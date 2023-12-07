@@ -8,7 +8,7 @@
 - LinkedIn: [linkedin.com/in/payalsinha93](https://www.linkedin.com/in/payalsinha93)
 
 ## Summary
-Experienced Senior Database Administrator with 7 years in the IT industry, leading a team to ensure the availability and maintenance of the environment. Currently working at Tech Mahindra Limited for Cisco as a Senior Database Administrator with a focus on Site Reliability Engineering (SRE).
+Experienced Senior Database Administrator with 7 years in the IT industry, leading a team to ensure the availability and maintenance of the environment. Currently working at Tech Mahindra Limited as a Senior Database Administrator with a focus on Site Reliability Engineering (SRE).
 
 ## Work Experience
 
